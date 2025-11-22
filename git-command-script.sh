@@ -6,4 +6,4 @@ echo "Adding extra lines to execute git diff cmd"
 
 echo "Created new branch dev using git checkout -b cmd"
 
-echo "New line"
+echo "New line for branch 2"
